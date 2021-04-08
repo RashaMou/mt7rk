@@ -1,0 +1,30 @@
+.container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoBox {
+    width: 275px;
+    padding: 20px 0 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #ff5050;
+    border-top: 0;
+    box-shadow: 0 0 #ff5050, -1px 1px #ff5050, -2px 2px #ff5050,
+        -3px 3px #ff5050, -4px 4px #ff5050, -5px 5px #ff5050, -6px 6px #ff5050,
+        -7px 7px #ff5050, -8px 8px #ff5050, -9px 9px #ff5050, -10px 10px #ff5050,
+        -11px 11px #ff5050, -12px 12px #ff5050, -13px 13px #ff5050,
+        -14px 14px #ff5050, -15px 15px #ff5050, -16px 16px 0 #ff5050;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
