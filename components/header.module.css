@@ -40,7 +40,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 200px;
     border-top: 0;
     box-shadow: 0 0 #ff5050, 1px 1px #ff5050, 2px 2px #ff5050, 3px 3px #ff5050,
         4px 4px #ff5050, 5px 5px #ff5050, 6px 6px #ff5050, 7px 7px #ff5050,
@@ -87,7 +86,7 @@
     cursor: pointer;
     padding: 22px;
     transition-property: background-color;
-    transition-duration: 2s;
+    transition-duration: 1s;
 }
 
 .ul {
